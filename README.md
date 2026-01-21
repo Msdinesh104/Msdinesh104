@@ -1,5 +1,14 @@
 # 💫 About Me:
-🚀 Actively sharpening my skills in MERN Stack Development, focusing on building real-world applications, improving UI performance, and learning best practices for scalable full-stack projects. Currently exploring advanced React patterns, REST APIs, and backend optimization. 💻 Tech Stack: MongoDB, Express.js, React.js, Node.js. 🤝 Open to collaborating on frontend-heavy or full-stack MERN projects, especially startups, learning-driven teams, and open-source contributions that solve real-world problems and enhance user experience. 🎯 I enjoy turning ideas into working products, debugging tricky code, and continuously learning new technologies.<br>🎵 When I’m not coding, you’ll find me listening to music, exploring tech content, or experimenting with UI designs.<br>🎨 Frontend: HTML5, CSS3, JavaScript, Bootstrap, React.js<br>⚙️ Passionate about creating responsive, user-friendly interfaces and writing clean, maintainable code.
+🚀 Actively sharpening my skills in MERN Stack Development, focusing on building real-world applications, improving UI performance, and learning best practices for scalable full-stack projects. Currently exploring advanced React patterns, REST APIs, and backend optimization.
+
+💻 Tech Stack: MongoDB, Express.js, React.js, Node.js
+🎨 Frontend: HTML5, CSS3, JavaScript, Bootstrap, React.js
+⚙️ Passionate about creating responsive, user-friendly interfaces and writing clean, maintainable code.
+
+🤝 Open to collaborating on frontend-heavy or full-stack MERN projects, especially startups, learning-driven teams, and open-source contributions that solve real-world problems and enhance user experience.
+
+🎯 I enjoy turning ideas into working products, debugging tricky code, and continuously learning new technologies.
+🎵 When I’m not coding, you’ll find me listening to music, exploring tech content, or experimenting with UI designs.
 
 
 ## 🌐 Socials:
